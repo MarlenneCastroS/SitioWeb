@@ -1,0 +1,42 @@
+*{
+    font-family: "Raleway", sans-serif;
+    font-weight: 500;
+    font-style: italic;
+}
+header{
+    background-color: #F29B30;
+}
+header a{
+  color: #5F5C73;
+}
+.nav-item a{
+   color: #5F5C73;
+}
+#boton-sobre{
+    background-color: #5F5C73;
+}
+.nav-item a:hover{
+    color: #D99441;
+}
+.sobre-h .Hai{
+    color: #D95043;
+}
+.iconoH{
+    height: 50px;
+}
+.foot-img{
+    height: 70px;
+    border-radius: 10px;
+}
+.temporadas h2{
+    background-color: #D95043;
+}
+.album h2{
+    background-color: #D95043;
+}
+.card-text{
+    color: #5F5C73;
+}
+footer{
+    background-color: #D99441;
+}
